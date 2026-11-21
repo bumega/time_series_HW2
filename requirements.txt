@@ -1,0 +1,6 @@
+ipykernel==7.1.0
+matplotlib==3.10.8
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.7.2
+statsmodels==0.14.6
